@@ -1,0 +1,6 @@
+{
+  "name": "Mind Haven",
+  "description": "An offline-first, peaceful mobile game offering calming interactions like stone stacking, water ripples, sand raking, breathing guides, and a personal meditation garden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
